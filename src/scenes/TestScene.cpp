@@ -3,6 +3,8 @@
 #include "core/Draw.h"
 #include "imgui.h"
 
+#include <string>
+
 TestScene::TestScene() : circlePosition(0, 1), circleRadius(1) {}
 
 TestScene::~TestScene() {}
